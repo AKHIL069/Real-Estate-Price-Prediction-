@@ -1,5 +1,5 @@
 # Real-Estate-Price-Prediction-
-. The goal of this project is to create a regression model that are able to accurately estimate the price of the house given the features.
+The goal of this project is to create a regression model that are able to accurately estimate the price of the house given the features.
 
 # Introduction
 Housing prices are an important reflection of the economy, and housing price ranges are of great interest for both buyers and sellers. In this project. house prices will be predicted given explanatory variables that cover many aspects of residential houses. Thus, there is a need to predict the efficient house pricing for real estate customers with respect to their budgets and priorities. This project uses random forest algorithm to predict prices by analyzing current house prices, thereby forecasting the future prices according to the user’s requirements. The goal of this project is to create a regression model that are able to accurately estimate the price of the house given the features.
